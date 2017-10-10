@@ -37,11 +37,11 @@ The basic ideas behind InfraNodus are:
 
 InfraNodus is built on
 
-* [Sigma.Js](http://github.com/jacomyal/sigma.js) for graph visualization;
-* [Neo4J](http://neo4j.org) for graph database storage (TODO: add support for OrientDB and Titanium);
+* [Sigma.Js](https://github.com/jacomyal/sigma.js) for graph visualization;
+* [Neo4J](https://neo4j.org) for graph database storage (TODO: add support for OrientDB and Titanium);
 * Node.Js
 * Express Node.Js library;
-* [Node-Neo4J layer](http://github.com/philippkueng/node-neo4j);
+* [Node-Neo4J layer](https://github.com/philippkueng/node-neo4j);
 * [Textexture](http://textexture.com) algorithm for text network visualization;
 * Help from the people on StackOverflow and Neo4J community;
 
@@ -49,7 +49,7 @@ InfraNodus is built on
 =================
 
 
-###Installation Guide
+### Installation Guide
 To use this software you should install Neo4J 2.0 and Redis on your local computer.
 To install Neo4J on a Mac use homebrew (see [Neo4J instructions here](http://www.neo4j.org/download)).
 To install Redis on a Mac, check out [this nice installation guide](http://jasdeep.ca/2012/05/installing-redis-on-mac-os-x/)
@@ -65,7 +65,7 @@ You might need to manually install ejs rending Node.Js module
 =================
 
 
-###Data Model
+### Data Model
 
 The general rationale for the data model used in InfraNodus is outlined in
 * [Cognitive Network Protocol](http://noduslabs.com/research/cognitive-network-protocol/) article (more specific)
@@ -91,7 +91,7 @@ The current data model description utilized in InfraNodus app is available in ht
 =================
 
 
-###Mobile Interface
+### Mobile Interface
 
 InfraNodus can also be used on a mobile.
 
@@ -102,7 +102,7 @@ InfraNodus can also be used on a mobile.
 =================
 
 
-####MIT License####
+#### MIT License ####
 
 This open source, free software is available under MIT license.
 It is provided as is, with no guarantees and no liabilities.
